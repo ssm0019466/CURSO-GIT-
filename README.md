@@ -35,3 +35,10 @@ LA PRUEBA DE QUE SI FUNCIONA GIT
 | `gitk` | Open GUI | Abre una interfaz grafica |
 | `git cherry.pick [id]` | Take commit from other branches | Trae un commit especifico desde otra rama |
 | `git grep -n [word]` | Search words in the proyect | Busca la palabra especificada en todo el proyecto |
+
+
+Curso en  el enlace
+
+**GOOGLE DRIVE**
+
+###  https://docs.google.com/document/d/1J3vYTMKNcEIsaT9fscYKcnBSQJzT7WTy4Q3sn9Bkgu4/edit?usp=sharing
